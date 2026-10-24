@@ -1,0 +1,4 @@
+rich>=13.7.1
+questionary>=2.0.1
+colorama>=0.4.6
+pywin32>=306 ; sys_platform == "win32"

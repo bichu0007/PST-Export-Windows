@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.csv
+*.pst
+*.ost
+*.repair.log
+.pypff-install-attempted
+build/
+dist/
+logs/
+extracted_output/
